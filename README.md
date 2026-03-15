@@ -17,5 +17,5 @@ Skills: Java 8+ | ES2016+ | ReactJs, Next Js, Redux |  REST API Design & GraphQL
 
 #### Links:
 
-[<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/blueGithub.svg' alt='github' height='40'>](https://github.com/g0ng0n-dev)  [<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/g0ng0n//)  
+[<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/blueGithub.svg' alt='github' height='40'>](https://github.com/g0ng0n-dev)  [<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gongis)  
 
