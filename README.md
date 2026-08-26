@@ -1,21 +1,16 @@
 ![I am a passionate self-taught programmer...](https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/newBanner.jpg)
 
-### Hi there 👋, my name is Gon
-#### I am a passionate self-taught programmer...
+### Hi, I'm Gonzalo
 
-... who undertakes complex assignments, meets tight deadlines and delivers superior performance. I have practical knowledge of multiple backend technologies and frameworks mainly related to Backend technologies. I have worked on several projects that succeeded and are now live on the web.
+Full-stack developer, 17+ years in production. Right now I work in TypeScript,
+Next.js and NestJS on AWS, building e-commerce and payment systems.
 
+Before that, seven years on Walt Disney Parks and Resorts Online through Globant,
+from backend Java developer to tech lead.
 
+I build with AI agents in the loop — Cursor and Claude Code are part of my normal
+workflow, not a side experiment.
 
-Skills: Java 8+ | ES2016+ | ReactJs, Next Js, Redux |  REST API Design & GraphQL | Spring Framework | MySql, MongoDB | Functional Programming
+**Stack:** TypeScript · Node.js · NestJS · React · Next.js · AWS · PostgreSQL · Java / Spring Boot
 
-
-
-- 🌱 I’m currently learning Elixir & Rust 
-- 📫 How to reach me: d3vg0n3@pm.me
-
-
-#### Links:
-
-[<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/blueGithub.svg' alt='github' height='40'>](https://github.com/g0ng0n-dev)  [<img src='https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gongis)  
-
+📫 g0ng0n.dev@gmail.com · [LinkedIn](https://linkedin.com/in/gongis)
