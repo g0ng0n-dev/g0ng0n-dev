@@ -13,4 +13,4 @@ workflow, not a side experiment.
 
 **Stack:** TypeScript · Node.js · NestJS · React · Next.js · AWS · PostgreSQL · Java / Spring Boot
 
-📫 g0ng0n.dev@gmail.com · [LinkedIn](https://linkedin.com/in/gongis)
+📫 gon.eu.1987@gmail.com · [LinkedIn](https://linkedin.com/in/gongis)
